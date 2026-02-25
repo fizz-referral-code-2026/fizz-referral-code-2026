@@ -36,3 +36,5 @@ Whether you are in Quebec or joining through the new expansion provinces, code *
 
 ---
 *Keywords: Fizz referral code 2026, Fizz promo code Canada, Fizz Ontario, Fizz Alberta, Fizz British Columbia, Fizz Manitoba, Fizz internet discount, Fizz mobile bonus, Montreal, Toronto, Calgary, Vancouver.*
+
+For a more detailed, step-by-step visual guide, visit my [Fizz Promo Guide 2026 here](https://sites.google.com/view/fizz-referral-code-2026/).
