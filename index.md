@@ -1,3 +1,13 @@
+---
+layout: default
+---
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3GFQMSG4EF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-3GFQMSG4EF');
+</script>
 # ⭐ Fizz Referral Code 2026: 8FNUF ⭐
 
 ## Get an instant $25 to $40 credit on your first Fizz bill!
